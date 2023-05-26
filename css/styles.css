@@ -4,7 +4,9 @@ h1 {
 p2 {
     color: black;
 }
-
+p1{
+    color: blue;
+}
 p32 {
     color: red;
 }
@@ -12,11 +14,11 @@ p3{
     color:black;
 }
 
-.xlabel {
+.nvlabel {
     color: blue;
 }
 
-.xclass {
+.nvclass {
     color: brown;
 }
 
